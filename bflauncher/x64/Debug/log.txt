@@ -1,0 +1,45 @@
+--launch started
+--app name : D:\Programs\Aseprite.v1.3\Aseprite.v1.3\Aseprite.exe
+--launch ended
+--launch started
+--app name : D:\Programs\Audacity\Audacity.exe
+--launch ended
+--launch started
+--app name : D:\Programs\Android Studio\bin\studio64.exe
+--launch ended
+--launch started
+--app name : C:\Program Files\doxygen\bin\doxywizard.exe
+--launch ended
+--launch started
+--app name : C:\Users\Lenovo\Desktop\KMSAuto.exe
+--error 2 : 740
+--launch ended
+--launch started
+--app name : C:\Users\Lenovo\Desktop\FigmaSetup.exe
+--launch ended
+--launch started
+--app name : D:\Programs\Process Hacker\Process Hacker v2.39 Portable Eng_Rus\Process Hacker v2.39 Portable x86 Rus\ProcessHacker.exe
+--launch ended
+--launch started
+--app name : D:\Programs\JUCE\Projucer.exe
+--launch ended
+--launch started
+--app name : C:\Program Files (x86)\Microsoft SQL Server Management Studio 20\Common7\IDE\Ssms.exe
+--launch ended
+--launch started
+--app name : C:\Program Files\Wireshark\Wireshark.exe
+--launch ended
+--launch started
+--app name : D:\Programs\Microsoft VS Code\Code.exe
+--launch ended
+--launch started
+--app name : C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+--launch ended
+--launch started
+--app name : D:\Programs\Scenarist\Scenarist.exe
+--launch ended
+EXIT SERVICE
+START SERVICE
+--launch started
+--app name : D:\Programs\Aseprite.v1.3\Aseprite.v1.3\Aseprite.exe
+--launch ended

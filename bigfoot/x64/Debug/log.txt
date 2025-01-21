@@ -1,0 +1,21 @@
+START SERVICE
+--launch started
+--app name : D:\Programs\Aseprite.v1.3\Aseprite.v1.3\Aseprite.exe
+--error2 : 0
+--launch ended
+EXIT SERVICE
+START SERVICE
+--launch started
+--app name : D:\Programs\Aseprite.v1.3\Aseprite.v1.3\Aseprite.exe
+--error2 : 0
+--launch ended
+--launch started
+--app name : D:\Programs\ShareX\ShareX.exe
+--error2 : 0
+--launch ended
+--launch started
+--app name : C:\Program Files\Wireshark\Wireshark.exe
+--error2 : 0
+--launch ended
+START SERVICE
+--error : dispatcher

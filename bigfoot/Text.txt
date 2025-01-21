@@ -1,0 +1,46 @@
+v 1.0.0
+
+v 1.1.0
+
+v 1.2.0
+-- fixed bug with utf string for folder path
+
+v 1.2.1
+-- uncommented request for admin rights
+
+v 1.2.2
+-- uncommented check button logic
+
+v 1.3.0
+-- added validation for time
+-- schedule in use is openned after launch
+-- default mode is changed to View mode
+-- fixed some bugs connected to the SAVE process
+
+v 1.3.1
+-- service was replaced by application in background
+
+v 1.3.2
+-- were modificated logs in bflauncher
+
+v 1.3.3
+-- fixed bugs with utf strings
+-- fixed bug with button Close Schedule/OpenSchedule in View mode
+-- lowered inaccuracy in delay time in bflauncher
+
+v 1.3.4
+-- the sorting method was rewritten
+-- changed the version of Common Controls library
+-- were added tips for schedule item
+-- added timestamp information in logs 
+-- small modifications in design
+-- fixed bug with saving after pressing on Exit button
+
+v 1.3.5
+-- fixed bug with selected item
+-- fixed bug with items ids
+-- removed option to add bigfoot.exe and bflauncher.exe in schedule
+-- visualization of selected and hovered item modified
+
+v 1.3.6
+-- fixed bug with adding unexecutable files in schedule

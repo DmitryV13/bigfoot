@@ -1,0 +1,5 @@
+D:\Applications\Desktop\bigfoot\x64\Debug\bigfoot.exe
+C:\Users\Lenovo\Desktop\bigfoot\x64\Debug\bigfoot.exe
+C:\Users\Lenovo\Desktop\р\x64\Debug\bigfoot.exe
+C:\Users\Lenovo\Desktop\пух\x64\Debug\bigfoot.exe
+D:\Applications\Desktop\bigfoot\bigfoot\x64\Debug\bigfoot.exe
